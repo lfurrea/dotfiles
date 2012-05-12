@@ -1,0 +1,150 @@
+xcalendar*firstDay:		1
+xcalendar*markHoliday:		false
+!Xcursor.theme: 		whitelarge
+!Xcursor.size: 		32
+
+!-------------------------------------------------------------------------------
+!
+!
+!      A T E R M - Setting
+!
+!
+Aterm*background:		#000000
+Aterm*foreground:		#ffffff
+Aterm*transparent:		false
+Aterm*shading:			80
+Aterm*cursorColor:		#d8d8d8
+Aterm*scrollbars:		false
+Aterm*saveLines:		100000
+Aterm*tinting:			gray
+Aterm*scrollBar:		false
+!Aterm*scrollBar_right:	true
+Aterm*transpscrollbar:		true
+Aterm*borderwidth:		0
+Aterm*font:			-*-terminus-medium-*-*-*-18-*-*-*-*-*-*-* 
+!-lfp-gamow-medium-r-normal-*-*-90-*-*-c-*-iso8859-5
+Aterm*geometry:			80x25
+Aterm*fading:			70  
+
+!colors
+!black
+Aterm*color0:		#333333
+Aterm*color8:		#686868
+!red
+Aterm*color1:		#CA5E5E
+Aterm*color9:		#FF595D
+!green
+Aterm*color2:		#ABCB8D
+Aterm*color10:		#AFD78A
+!yellow
+Aterm*color3:		#C48D62
+Aterm*color11:		#E0A765
+!blue
+Aterm*color4:		#8CA0B0
+Aterm*color12:		#3D6A82
+!magenta
+Aterm*color5:		#CC98E0
+Aterm*color13:		#E1A2DC
+!cyan
+Aterm*color6:		#44CACF
+Aterm*color14:		#6CBFC4
+!white
+Aterm*color7:		#E7E6DD
+Aterm*color15:		#F0EFE7 
+
+!-------------------------------------------------------------------------------
+!
+!	X T E R M - Settings
+!
+!
+!XTerm*underLine:		on
+XTerm*colorMode:		on
+XTerm*colorBD:			lightyellow
+!XTerm*colorBDMode:		off
+XTerm*colorUL:			yellow
+XTerm*colorULMode:		on
+XTerm*dynamicColors:		off
+XTerm*highlightSelection:	true
+XTerm*background:		#000000
+XTerm*foreground:		#ffffff
+
+xterm*font: -*-terminus-medium-*-*-*-18-*-*-*-*-*-*-*
+!xterm*font: -schumacher-clean-medium-*-*-*-16-160-75-75-*-80-*-*
+!xterm*font: -*-fixed-medium-r-*-*-18-*-*-*-*-*-iso8859-*
+xterm*font1: -*-*-*-*-*-*-2-*-*-*-*-*-*-*
+xterm*font2: -misc-fixed-*-r-normal-*-8-*-*-*-*-*-iso8859-*
+xterm*font3: -b&h-lucidatypewriter-bold-*-*-*-12-*-*-*-*-*-*-*
+xterm*font4: -*-screen-bold-r-normal-*-16-*-*-*-*-*-iso8859-*
+xterm*font5: -*-lucidatypewriter-medium-*-*-*-18-*-*-*-*-*-*-*
+xterm*font6: -*-lucidatypewriter-medium-*-*-*-20-*-*-*-*-*-*-*
+xterm*font7: -dec-terminal-bold-r-normal-*-14-*-*-*-*-*-iso8859-*
+
+
+!xterm*geometry:	120x50+220-70
+XTerm*pointerColor: red
+XTerm*pointerColorBackground: black
+XTerm*internalBorder: 3
+XTerm*loginShell: true
+XTerm*scrollBar: false
+XTerm*scrollKey: true
+XTerm*saveLines: 100000
+XTerm*multiClickTime: 250
+
+
+
+!colors
+!black
+XTerm*color0:		#000000
+XTerm*color8:		#666666
+!red
+XTerm*color1:		#9e1828
+XTerm*color9:		#cf6171
+!green
+XTerm*color2:		#aece92
+XTerm*color10:		#c5f779
+!yellow
+XTerm*color3:		#968a38
+XTerm*color11:		#fff796
+!blue
+XTerm*color4:		#414171
+XTerm*color12:		#4186be
+!magenta
+XTerm*color5:		#96c359
+XTerm*color13:		#cf9ebe
+!cyan
+XTerm*color6:		#418179
+XTerm*color14:		#71bebe
+!white
+XTerm*color7:		#bebebe
+XTerm*color15:		#ffffff 
+!-------------------------------------------------------------------------------
+!
+!	E M A C S - Setting
+!
+!
+Emacs.BorderWidth: 0
+Emacs.verticalScrollBars: 0
+Emacs.background: gray18
+Emacs.foreground: white smoke
+
+Emacs.modeline*attributeForeground:     gainsboro
+Emacs.modeline*attributeBackground:     gray18
+
+Emacs.text-cursor*attributeBackground:  Red3
+Emacs.pointer*attributeForeground:      Red3
+Emacs.pointer*attributeBackground:      Red3
+Emacs*menubar*Foreground:               gainsboro
+Emacs*menubar*Background:               gray18
+Emacs*popup*Foreground:                 gainsboro
+Emacs*popup*Background:                 gray18
+
+Emacs*toolBar:	0
+Emacs*leftToolBarWidth:	0
+Emacs*rightToolBarWidth:	0
+Emacs*scrollBarWidth:	1
+
+Emacs.geometry:	130x50+120-70
+
+Emacs*menubar*Font:	-*-verdana-medium-r-*-*-*-*-*-*-*-*-*-*
+emacs.font:	-*-terminus-medium-*-*-*-18-*-*-*-*-*-*-*
+!-*-verdana-medium-r-*-*-*-*-*-*-*-*-*-*
